@@ -1,0 +1,24 @@
+
+PROJECT
+
+
+read create delete 
+traditional programming.
+current programming.
+using file system via database but now file manager.
+
+
+student create:
+1.name
+2.father name
+3.class admission
+4.roll no.
+5.list of subjects. 
+
+REQUIRED:
+a).everytime you create check either the same is present already or not, if yes then show an error.
+b).read data of specific class and print all details of students present.
+c).if student is trying to update its information he will edit except subjects/roll no.
+d).function of delete would be perform after provind his class and roll no. only.
+E). to perform all these tasks you are needed to create a "menu". Ask to user about it.
+ 
